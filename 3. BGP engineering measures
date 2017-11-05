@@ -1,6 +1,7 @@
 3. BGP engineering measures
 
-The Border Gateway Protocol (BGP) is the protocol almost exclusively used in the Internet to exchange routing information between network domains.  Due to this central nature, it is important to understand the security measures that can and should be deployed to prevent accidental or intentional routing disturbances.
+The Border Gateway Protocol (BGP) is the protocol almost exclusively used in the Internet to exchange routing information between network domains.  
+Due to this central nature, it is important to understand the security measures that can and should be deployed to prevent accidental or intentional routing disturbances.
 Good risk analysis of BGP vulnerabilities can be found in [CSRIC3BGP] and [NIST800-54]. 
 
 General BGP Operations and Security
@@ -54,4 +55,7 @@ Egress:
 
 BGP origin validation
 
-There is a form of attack against the routing information provided by BGP4. This is done through injection of misleading routing information into the routing system. The measures to protect against misleading routing information consists of several Resource Public Key Infrastructure (RPKI) based components (next to the already mentioned). The operation best practices are described in [BCP185].
+There is a form of attack against the routing information provided by BGP4. 
+This is done through injection of misleading routing information into the routing system. 
+The measures to protect against misleading routing information consists of several Resource Public Key Infrastructure (RPKI) based components (next to the already mentioned). 
+The operation best practices are described in [BCP185].
