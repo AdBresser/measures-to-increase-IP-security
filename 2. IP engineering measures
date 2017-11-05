@@ -4,7 +4,7 @@ One of the major weaknesses of the IP protocol, is the possibility to spoof the 
 
 Source IP address assurance
 
-By setting up routers in networks properly, DDoS attacks can be prevented. This way, spoofed packets are easily stopped. These packets are the source of many different forms of attacks. Unfortunately, filtering this is only effective if almost all networks set it up. [CSAN2016]
+By setting up routers in networks properly, DDoS attacks based on spoofed IP source addresses, can be prevented. This way, spoofed packets are easily stopped. These packets are the source of many different forms of attacks. Unfortunately, filtering this is only effective if almost all networks set it up [CSAN2016].
 The nearer the filters are applied to the origination of the spoofed traffic, the better the effects on the security and reliability of the hosts and the network will be. According to some measurements, up to 60% of the IP addresses used in attacks are bogon.
 
 Ingress filtering - Customers
