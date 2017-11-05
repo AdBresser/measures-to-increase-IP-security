@@ -4,7 +4,7 @@ There are several architecture concepts that can increase the security and relia
 
 Split destinations
 
-It is possible to increase the security (e.g. mitigating DDOS attacks) by creating multiple instances of a destination of IP packets and manipulating the flow of IP traffic coming from the Internet. Such a solution can include separated servers, dual ASNs and separated peering policies. With the latter peerings with trusted networks can be separated from worldwide connectivity. The advantage of this solution, is that it is completely independent from other cooperation initiatives.
+It is possible to increase the security (e.g. mitigating DDOS attacks) by creating multiple instances of a destination for IP packets and manipulating the flow of IP traffic coming from the Internet. Such a solution can include separated servers, dual ASNs and separated peering policies. With the latter, peerings with trusted networks can be separated from worldwide connectivity. The advantage of this solution is that it is completely independent from other cooperation initiatives.
 
 Transit & Peering
 
