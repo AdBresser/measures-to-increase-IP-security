@@ -1,6 +1,6 @@
 # Measures to increase IP security
 
-Internet infrastructure (IP/BGP) routing is the crucial basis for all the Internet based services. 
+Internet infrastructure routing (IP/BGP) is the crucial basis for all the Internet based services. 
 This overview lists all identified measures to improve the security and reliability of the Internet routing. 
 The measures vary from BCP/RFC documented measures to architectural approaches and administration and assurance measures.
 
