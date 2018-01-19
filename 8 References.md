@@ -21,6 +21,9 @@
 >  https://tools.ietf.org/html/rfc7454  
 >  Publication: February 2015
 
+[BGPFG] - BGP Filter Guides
+>  http://bgpfilterguide.nlnog.net/
+
 [BGPHE] - BGP Toolkit
 >  https://bgp.he.net/
 
