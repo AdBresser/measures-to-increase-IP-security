@@ -59,3 +59,8 @@ There is a form of attack against the routing information provided by BGP4.
 This is done through injection of misleading routing information into the routing system. 
 The measures to protect against misleading routing information consists of several Resource Public Key Infrastructure (RPKI) based components (next to the already mentioned). 
 The operation best practices are described in [BCP185].
+
+### BGP Filter Guide
+
+In order to support the deployment of BGP engineering measures, the NLNOG created a 
+BGP Filter Guide [BGPFG] with Configuration Examples for multiple kinds of systems. 
